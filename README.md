@@ -19,6 +19,15 @@
 
 ---
 
+## 🎬 Demo Video & Channel
+
+Watch the app in action and explore more updates on our YouTube channel:
+
+📺 [Visit Channel](https://youtube.com/@nextcaller6649)
+
+[![Work Mode Demo](https://img.youtube.com/vi/jEK38_jr7-M/hqdefault.jpg)](https://youtu.be/jEK38_jr7-M)
+
+---
 ## 📥 Download APK
 
 👉 [Download Latest APK (Google Drive)](https://drive.google.com/file/d/1glRa6crUVhRrzzBUnc1Pm5aNvsFigLI1/view?usp=drive_link)
@@ -27,13 +36,11 @@
 
 ---
 
-## 🎬 Demo Video & Channel
+## 🏪 Former Play Store Listing
 
-Watch the app in action and explore more updates on our YouTube channel:
+The app was previously published on the Google Play Store and received over 9000 downloads.
 
-📺 [Visit Channel](https://youtube.com/@nextcaller6649)
-
-[![Work Mode Demo](https://img.youtube.com/vi/jEK38_jr7-M/hqdefault.jpg)](https://youtu.be/jEK38_jr7-M)
+🔗 [Nextcaller on Google Play (archived)](https://play.google.com/store/apps/details?id=com.prodenzo.neXtcaller)
 
 ---
 
