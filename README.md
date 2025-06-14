@@ -21,7 +21,7 @@
 
 ## 📥 Download APK
 
-👉 [Download Latest APK (Google Drive)]([https://drive.google.com/your-apk-link-here](https://drive.google.com/file/d/1glRa6crUVhRrzzBUnc1Pm5aNvsFigLI1/view?usp=drive_link))
+👉 [Download Latest APK (Google Drive)](https://drive.google.com/file/d/1glRa6crUVhRrzzBUnc1Pm5aNvsFigLI1/view?usp=drive_link)
 
 > Compatible with Android 7.0 and above
 
@@ -32,6 +32,8 @@
 Watch the app in action and explore more updates on our YouTube channel:
 
 📺 [Visit Channel](https://youtube.com/@nextcaller6649)
+
+[![Work Mode Demo](https://img.youtube.com/vi/jEK38_jr7-M/hqdefault.jpg)](https://youtu.be/jEK38_jr7-M)
 
 ---
 
